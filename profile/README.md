@@ -2,4 +2,4 @@
 
 Organization to manage university projects.
 
-Owner: [Abduaziz](https://github.com/Abduaziz)
+Owner: [Abduaziz](https://github.com/AbduazizZiyodov)
